@@ -22,7 +22,7 @@
       }
     }
   },
-  "description": "Front-end devs: stop fiddling with the address bar every time you need fresh-baked server goodness.",
+  "description": "Add a cache busting parameter at the end of the current page URL.",
   "icons": {
     "128": "i/128.png",
     "16": "i/16.png",
@@ -31,10 +31,10 @@
   },
   "manifest_version": 2,
   "minimum_chrome_version": "45",
-  "name": "Cachebuster",
-  "short_name": "Cachebuster",
+  "name": "Tray.io Cachebuster",
+  "short_name": "Tray.io Cachebuster",
   "permissions": [
     "activeTab"
   ],
-  "version": "1.0.3"
+  "version": "1.0.7"
 }
